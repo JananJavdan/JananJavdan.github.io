@@ -1,5 +1,3 @@
-The .scss (Sass) files are only available in the pro version.
-You can buy it from: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
 # JananJavdan.github.io
 
 ![Build Status](https://img.shields.io/github/actions/workflow/status/JananJavdan/JananJavdan.github.io/build.yml?branch=main)
